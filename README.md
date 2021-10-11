@@ -1,8 +1,8 @@
 <h1 align="center">>>>Padsala Trushal<<<</h1>
 
-<img src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" style="max-width: 100%;">
+<img src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" style="max-width: 150%;" width="600">
   
-<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" style="max-width: 100%;" width="400" align="right">  
+<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" style="max-width: 100%;" width="300" align="right">  
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
