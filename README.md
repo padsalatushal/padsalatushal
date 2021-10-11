@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **pentesting.**
 
-- 👨‍💻 All of my projects are available on at [This Account.](This Account.)
+- 👨‍💻 All of my projects are available on This Account.
 
 - 📫 How to reach me **padsalatrushal@gmail.com**
 
