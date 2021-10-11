@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Padsala Trushal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
 
-
-<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="400" align="right">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/padsalatrushal" target="blank"><img src="https://img.shields.io/twitter/follow/padsalatrushal?logo=twitter&style=for-the-badge" alt="padsalatrushal" /></a> </p>
