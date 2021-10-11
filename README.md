@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
 
 
-<img alt="Coding" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="
-https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="400" align="right">
+<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="400" align="right">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
 
