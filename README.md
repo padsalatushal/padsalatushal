@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Padsala Trushal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
 
-<p align="left"> <img src="https://giphy.com/gifs/andrea-ben-hacker-3oriNLx3dUqFgVi86I"/> </p>
+<p align="left"> <img src=""/> </p>
 
-#<iframe src="https://giphy.com/embed/3oriNLx3dUqFgVi86I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">
+<img alt="Coding" src="https://giphy.com/gifs/andrea-ben-hacker-3oriNLx3dUqFgVi86I" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width: 100%;" width="400" align="right">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
 
