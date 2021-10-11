@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padsala Trushal</h1>
+
+<img src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" style="max-width: 100%;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
