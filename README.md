@@ -38,6 +38,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trushal2004&" alt="trushal2004" /></p>
   
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
 
 
