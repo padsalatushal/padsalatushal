@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Padsala Trushal</h1>
+<h1 align="center">>>>Padsala Trushal<<<</h1>
 
 <img src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" style="max-width: 100%;">
 
