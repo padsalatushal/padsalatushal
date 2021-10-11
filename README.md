@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **pentesting.**
 
-<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="400" align="right">
+<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="200" align="right">
 
 - 👨‍💻 All of my projects are available on This Account.
 
