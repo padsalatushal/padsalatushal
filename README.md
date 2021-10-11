@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padsala Trushal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
 
-<p align="left"> <img src="https://giphy.com/gifs/andrea-ben-hacker-3oriNLx3dUqFgVi86I" alt="trushal2004" /> </p>
+<p align="left"> <img src="https://giphy.com/gifs/andrea-ben-hacker-3oriNLx3dUqFgVi86I"/> </p>
 
 #<iframe src="https://giphy.com/embed/3oriNLx3dUqFgVi86I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">
 
