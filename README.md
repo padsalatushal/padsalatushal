@@ -1,17 +1,17 @@
 <h1 align="center">>>>Padsala Tushal<<<</h1>
 
-<img src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/600x200.jpeg" style="max-width: 100%;" align="left">
+<img src="https://github.com/padsalatushal/padsalatushal/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/600x200.jpeg" style="max-width: 100%;" align="left">
   
-<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/flag_logo.gif" style="max-width: 100%;" width="300" align="right">  
+<img alt="Coding" src="https://github.com/padsalatushal/padsalatushal/blob/main/flag_logo.gif" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/flag_logo.gif" style="max-width: 100%;" width="300" align="right">  
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal2004&label=Profile%20views&color=0e75b6&style=flat" alt="trushal2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=padsalatushal&label=Profile%20views&color=0e75b6&style=flat" alt="padsalatushal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/padsalatrushal" target="blank"><img src="https://img.shields.io/twitter/follow/padsalatrushal?logo=twitter&style=for-the-badge" alt="padsalatrushal" /></a> </p>
 
 - 🌱 I’m currently learning **pentesting.**
 
-<img alt="Coding" src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" data-canonical-src="https://github.com/Trushal2004/Trushal2004/blob/main/giphy.gif" style="max-width: 100%;" width="300" align="right">
+<img alt="Coding" src="https://github.com/padsalatushal/padsalatushal/blob/main/giphy.gif" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/giphy.gif" style="max-width: 100%;" width="300" align="right">
 
 - 👨‍💻 All of my projects are available on This Account.
 
@@ -30,14 +30,14 @@
   
   
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trushal2004&show_icons=true&locale=en&layout=compact" alt="trushal2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=padsalatushal&show_icons=true&locale=en&layout=compact" alt="padsalatushal" /></p>
 
   
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=trushal2004&show_icons=true&locale=en" alt="trushal2004" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=padsalatushal&show_icons=true&locale=en" alt="padsalatushal" /></p>
   <p>                                 </p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trushal2004&" alt="trushal2004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=padsalatushal&" alt="padsalatushal" /></p>
   
   
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushal2004" alt="trushal2004" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padsalatushal" alt="padsalatushal" /></a> </p>
 
 
