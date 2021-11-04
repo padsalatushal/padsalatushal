@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padsalatushal&label=Profile%20views&color=0e75b6&style=flat" alt="padsalatushal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/padsalatrushal" target="blank"><img src="https://img.shields.io/twitter/follow/padsalatrushal?logo=twitter&style=for-the-badge" alt="padsalatrushal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/padsalatushal" target="blank"><img src="https://img.shields.io/twitter/follow/padsalatushal?logo=twitter&style=for-the-badge" alt="padsalatushal" /></a> </p>
 
 - 🌱 I’m currently learning **pentesting.**
 
@@ -15,12 +15,12 @@
 
 - 👨‍💻 All of my projects are available on This Account.
 
-- 📫 How to reach me **padsalatrushal@gmail.com**
+- 📫 How to reach me **padsalatushal@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/padsalatrushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padsalatrushal" height="30" width="40" /></a>
+<a href="https://twitter.com/padsalatushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padsalatrushal" height="30" width="40" /></a>
 <a href="https://instagram.com/trushal.bug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trushal.bug" height="30" width="40" /></a>
 </p>
 
