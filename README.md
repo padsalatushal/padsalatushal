@@ -2,20 +2,12 @@
 
 <img src="https://github.com/padsalatushal/padsalatushal/blob/main/600x200.jpeg" alt="MasterHead" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/600x200.jpeg" style="max-width: 100%;" align="left">
   
-<img alt="Coding" src="https://github.com/padsalatushal/padsalatushal/blob/main/flag_logo.gif" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/flag_logo.gif" style="max-width: 100%;" width="300" align="right">  
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padsalatushal&label=Profile%20views&color=0e75b6&style=flat" alt="padsalatushal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/padsalatushal" target="blank"><img src="https://img.shields.io/twitter/follow/padsalatushal?logo=twitter&style=for-the-badge" alt="padsalatushal" /></a> </p>
 
-- 🌱 I’m currently learning **pentesting.**
-
-<img alt="Coding" src="https://github.com/padsalatushal/padsalatushal/blob/main/giphy.gif" data-canonical-src="https://github.com/padsalatushal/padsalatushal/blob/main/giphy.gif" style="max-width: 100%;" width="300" align="right">
-
-- 👨‍💻 All of my projects are available on This Account.
-
-- 📫 How to reach me **padsalatushal@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
